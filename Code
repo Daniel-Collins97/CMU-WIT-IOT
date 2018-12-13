@@ -1,0 +1,4 @@
+git clone --recursive https://github.com/sunfounder/SunFounder_PiCar-S.git 
+once done then:
+cd ~/SunFounder_PiCar-S/
+sudo ./install_dependencies 
